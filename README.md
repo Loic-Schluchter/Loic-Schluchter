@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hello, I'm Loïc Schluchter  
 
-<!--
-**Loic-Schluchter/Loic-Schluchter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+I'm a **Junior Frontend Developer** passionate about web development and always eager to learn new technologies.  
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools  
+- HTML, CSS (In progress)  
+- JavaScript (Coming soon)  
+- Learning React & Next.js  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![roadmap.sh](https://roadmap.sh/card/tall/67c7c947580201fc775f82b0?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+
+## 📫 Get in Touch  
+- [GitHub Profile](https://github.com/Loic-Schluchter)   
+
+🚀 Always learning, always coding!  
