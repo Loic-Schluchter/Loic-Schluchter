@@ -1,16 +1,43 @@
-# 👋 Hello, I'm Loïc Schluchter  
+# 👋 Bonjour, je suis Loïc Schluchter  
 
-## 🚀 About Me  
-I'm a **Junior Frontend Developer** passionate about web development and always eager to learn new technologies.  
+## 🚀 À propos de moi  
+Je suis **développeur front-end**, passionné par la création d’interfaces web modernes, fluides et performantes.  
+J’aime concevoir des expériences claires et intuitives, en alliant **code propre**, **esthétique** et **fonctionnalité**.  
 
-## 🔧 Technologies & Tools  
-- HTML, CSS (In progress)  
-- JavaScript (Coming soon)  
-- Learning React & Next.js  
+Actuellement, je me concentre sur **React**, afin de consolider mes bases et de développer une approche professionnelle du front-end moderne.  
+Mon objectif est de créer des projets de plus en plus complets, tout en améliorant ma rigueur technique et ma sensibilité à la sécurité des applications web.  
+
+---
+
+## ⚙️ Technologies & Outils  
+- **React** (hooks, composants, gestion d’état)  
+- **JavaScript (ES6+)**  
+- **HTML / CSS** (bases solides, responsive design, animations)  
+- **Git & GitHub** (gestion de versions, hébergement de projets)  
+- **VS Code / WebStorm** (environnements de développement)  
 
 [![roadmap.sh](https://roadmap.sh/card/tall/67c7c947580201fc775f82b0?variant=dark&roadmaps=frontend)](https://roadmap.sh)
 
-## 📫 Get in Touch  
-- [GitHub Profile](https://github.com/Loic-Schluchter)   
+---
 
-🚀 Always learning, always coding!  
+## 🌱 Ce que je fais actuellement  
+- Développement d’exercices et mini-projets React pour consolider mes connaissances  
+- Création de composants réutilisables et amélioration de la structure du code  
+- Exploration de technologies modernes : **Vite**, **Tailwind CSS**, **Next.js**  
+- Étude des bonnes pratiques de sécurité pour rendre mes sites plus fiables et résistants aux failles courantes  
+
+---
+
+## 🎯 Objectif  
+Créer des interfaces **modernes, réactives et maintenables**, avec une attention particulière à la **sécurité** et à la **fiabilité** des sites web.  
+À long terme, je souhaite travailler en **freelance front-end**, tout en élargissant mes compétences vers la **cybersécurité appliquée au développement web**.  
+
+---
+
+## 📫 Me contacter  
+- 🌍 [Profil GitHub](https://github.com/Loic-Schluchter)  
+- 📧 loicschluchterdev@gmail.com  
+
+---
+
+✨ *Toujours en apprentissage, toujours en mouvement — un projet à la fois.*
