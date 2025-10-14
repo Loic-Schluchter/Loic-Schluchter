@@ -33,7 +33,7 @@ Mon objectif est de créer des projets de plus en plus complets, tout en amélio
 | Projet | Description | Lien |
 |:--------|:-------------|:------|
 | **React TestaCards** | Une collection d’expériences avec React et les hooks, pour tester animations, interactions et logique d’état. | 🔗 [Voir sur GitHub](https://github.com/Loic-Schluchter/TestaCards) |
-| **React Playground** | Un espace d’expérimentation pour explorer le fonctionnement des composants et du DOM virtuel. | 🔗 [Voir sur GitHub]() |
+| **React Playground** | Un espace d’expérimentation pour explorer le fonctionnement des composants et du DOM virtuel. | 🔗 [Voir sur GitHub](https://github.com/Loic-Schluchter/lab-react-playground) |
 | **Changelog CSS Project** | Un exercice autour du design d’une page changelog responsive et animée en CSS pur. | 🔗 [Voir sur GitHub](https://github.com/Loic-Schluchter/Changelog) |
 | **Portfolio CSS Roadmap** | Une version HTML/CSS d’un portfolio simple, étape importante de mon parcours d’apprentissage. | 🔗 [Voir sur GitHub](https://github.com/Loic-Schluchter/learning-css-portfolio-roadmap) |
 
